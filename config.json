@@ -1,0 +1,14 @@
+{
+  "_ayuda": {
+    "mis_numeros":              "Tu lista de números favoritos (entre 1 y 49)",
+    "excluir_ultimos_sorteos":  "Excluir números que salieron en los últimos N sorteos (0 = sin exclusión)",
+    "max_apuestas":             "Máximo de apuestas a generar",
+    "estrategia":               "frecuencia_baja | frecuencia_alta | equilibrado | aleatorio",
+    "semilla_aleatoria":        "Entero para reproducibilidad en modo aleatorio (null = diferente cada vez)"
+  },
+  "mis_numeros":             [1, 3, 7, 12, 14, 17, 19, 21, 26, 28, 33, 35, 40, 42, 48],
+  "excluir_ultimos_sorteos": 2,
+  "max_apuestas":            8,
+  "estrategia":              "frecuencia_baja",
+  "semilla_aleatoria":       null
+}
